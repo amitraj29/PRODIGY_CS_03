@@ -38,7 +38,7 @@ Contributions are welcome! If you'd like to add new features, improve existing o
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact me at [your email address].
+For any questions or suggestions, please open an issue or contact me at amitrajkarmakar29@gmail.com.
 
 ## Acknowledgements
 
